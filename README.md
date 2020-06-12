@@ -5,6 +5,8 @@
 
 ### project2 20newsgroups文本分类
 
+### project3 Mnist手写数字识别
+
 
 
 
